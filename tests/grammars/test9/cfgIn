@@ -1,0 +1,15 @@
+S,A,B,C,D,E,F
+a,b
+S
+S->E
+S->F
+A->bS
+A->D
+B->Sa
+B->a
+C->aD
+C->S
+D->ba
+E->aAS
+E->C
+F->SBb

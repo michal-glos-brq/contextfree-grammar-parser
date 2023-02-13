@@ -1,0 +1,15 @@
+E,F,T
+a,b,c,d,e,f,i
+E
+E->TcF
+E->TdF
+E->eEf
+E->i
+E->EaT
+E->EbT
+T->TcF
+T->TdF
+T->eEf
+T->i
+F->eEf
+F->i

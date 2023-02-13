@@ -1,0 +1,13 @@
+A,B,C,<bAcBC>,<AcBC>,<cBC>,<BC>,b',c'
+a,b,c
+A
+A->A<bAcBC>
+<bAcBC>->b'<AcBC>
+b'->b
+<AcBC>->A<cBC>
+<cBC>->c'<BC>
+<BC>->BC
+c'->c
+A->a
+B->b
+C->c
