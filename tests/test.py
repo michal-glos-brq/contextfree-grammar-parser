@@ -9,10 +9,6 @@
                                     #!              `---'              !#
                                     #@$%&                           &%$@#
                                     #####################################
-
-# This file provides:
-# Test for functional project FLP 2022
-# This code is not exactly respecting "best practices", instead is focused more on functionallity, I'm sorry
 import os
 import sys
 
